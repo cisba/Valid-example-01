@@ -9,7 +9,7 @@ $_SESSION['WIDGET'] = 'https://valid.time4mind.com/serv/getCompanyServiceInfo.ph
 
 // URLs for RPC
 $time4user_methods = 'https://sme.time4mind.com/Time4UserServices/services/backend/t4ujson';
-$time4id_methods = 'https://sme.time4mind.com/Time4eID/backend/auth';
+$time4id_methods = 'https://sme.time4mind.com/Time4eIDv2/backend/auth';
 
 ?>
 
